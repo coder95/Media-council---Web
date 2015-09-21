@@ -1,0 +1,45 @@
+body {
+	background-image : url("bg1.jpg");
+	background-size : 100%;
+	background-repeat : no-repeat;
+}
+
+#image {
+	margin-top : 20px;
+	margin-left : 45%;
+}
+.header {
+	margin-left : 15%;
+	width : 70%;
+	height : 150px;
+	border-bottom : 2px solid white ;
+}
+
+.tableheader {
+	background-color: rgba(20,50,50,0.5);
+	color:white;
+	font-size : 20px;
+	font-weight:bold;
+	border : 1px solid white;
+}
+
+.tablerow {
+	background-color: rgba(0,0,0,0.5);
+	color:white;
+	border : 1px solid white;
+}
+
+td {
+	border : 1px solid white;
+}
+
+.tablefooter {
+	background-color: rgba(0,0,0,0.5);
+	color:white;
+	font-size : 20px;
+	font-weight:bold;
+}
+
+.form {
+	margin-top : 60px;
+}

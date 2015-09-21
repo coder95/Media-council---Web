@@ -1,0 +1,23 @@
+body {
+	background-image : url("bg.jpg");
+	background-repeat : no-repeat;
+}
+
+.topic{
+	height : 40px;
+	box-shadow : 1px 3px 2.17px #DB7093;
+	color : white;
+	font-size : 30px;
+	margin-top : 0px;
+	margin-left : -10px;
+	margin-right : -10px;
+	background : rgba(0,0,0,0.5);  
+}
+.form {
+	width : 50%;
+	color : white;
+	padding : 7px;
+	margin : 7px;
+	border : 1px solid black;
+	background-color : rgba(0,0,0,0.5);
+}
